@@ -11,3 +11,7 @@ I will appreciate its alot, show me my worst and both of us can be improved.
 CuongTrinh1280/CuongTrinh1280 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<p align="center>
+          <img src="https://github-readme-stats.vercel.app/api?username=cuongtrinh1280&show_icons=true&count_private=true&custom_title=Github%20Stats&theme=dracula&include_all_commits=true">
+</p>
