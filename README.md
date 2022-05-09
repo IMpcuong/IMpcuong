@@ -1,3 +1,5 @@
+[![IMpossible's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuongtrinh1280&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @cuongtrinh a.k.a @impcuong, and I'm not a robot even sometimes I wished that might turning to reality, keke!
 - 👀 I’m interested in a lot of stuff, mostly learning new things with the curiostity and open-minded, feel free to say `hi`! 
 Any low-level programmings (obviously not deep down into the kernel like embedded-system or any kinds close with that, even I do like it tho)
@@ -11,8 +13,6 @@ I will appreciate its alot, show me my worst and both of us can be improved.
 CuongTrinh1280/CuongTrinh1280 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[![IMpossible's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuongtrinh1280&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuongtrinh1280&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
