@@ -2,9 +2,9 @@
 <html>
 <div width="100%" padding="4px">
   <div width="100%">
-    <img src="https://komarev.com/ghpvc/?username=CuongTrinh1280&style=flat&color=3285a8">
+    <img src="https://komarev.com/ghpvc/?username=IMpcuong&style=flat&color=3285a8">
   </div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cuongtrinh1280&count_private=true&show_icons=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IMpcuong&count_private=true&show_icons=true&theme=radical">
 </div>
 
 <hr/>
