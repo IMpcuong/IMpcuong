@@ -12,7 +12,7 @@
 <div width="100%" padding="4px">
   📫 How to reach me ...
   <div>
-    <a id="gmail-contact" href="https://mail.google.com/mail/?view=cm&to=invincible1280%40gmail.com">
+    <a id="gmail-contact" href="https://mail.google.com/mail/?view=cm&to=cuongtrinhtien128%40gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a id="linkedin-contact" href="https://www.linkedin.com/in/cuong-trinh-9b1211191/">
