@@ -28,19 +28,19 @@
 
 <div width="100%" padding="4px">
   <div width="100%">
-    👋 Hi, I’m @cuongtrinh a.k.a @impcuong, and I'm not a robot even sometimes I wished that might turning to reality, keke!
+    👋 Hi, I’m @cuongtrinh a.k.a @impcuong, and I'm not a robot even sometimes I wished that might turn into reality, keke!
   </div>
   <div width="100%">
-    👀 I’m interested in a lot of stuff, mostly learning new things with the curiostity and open-minded, feel free to say `hi`! 
-    Any low-level programmings (obviously not deep down into the kernel like embedded-system or any kinds close with that, even I do like it tho)
+    👀 I’m interested in a lot of stuff, mostly learning new things with curiosity and open-mindedness, feel free to say `hi`! 
+    Any low-level programs (obviously not deep down into the kernel like embedded-system or any kind close with that, even I do like it tho) 
     are the most attractive field that I have been immersed with.
   </div>
   <div width="100%">
     🌱 I’m currently learning both Golang and Rust at the same time, furthermore is Kubernetes/Docker **=>** to DevOpsity and beyond!
   </div>
   <div width="100%">
-    💞️ I’m looking to collaborate on any open source with the domain relevant with Golang or Rust, if you can teach me something, even you think it's trivial
-    I will appreciate its alot, show me my worst and both of us can be improved.
+    💞️ I’m looking to collaborate on any open source with the domain relevant to Golang or Rust. If you can teach me something, even if you think 
+    it's trivial I will appreciate its a lot, show me my worst and both of us can be improved.
   </div>
 </div>
 
