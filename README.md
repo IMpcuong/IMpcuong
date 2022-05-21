@@ -2,11 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=IMpcuong&style=flat&color=3285a8">
 </div>
 
-[![IMpossible's GitHub stats](https://github-readme-stats.vercel.app/api/?username=IMpcuong&hide_border=true&line_height=40&count_private=true&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMpcuong&hide_border=true&count_private=true&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr/>
-  
 <div>
   <div width="100%">
     <h4> 📫 How to reach me: </h4>
@@ -29,27 +24,30 @@
       👋 Hi, I’m @cuongtrinh a.k.a @impcuong, and I'm not a robot even sometimes I wished that might turn into reality, keke!
     </div><br/>
     <div width="100%">
-      👀 I’m interested in a lot of stuff, mostly learning new things with curiosity and open-mindedness, feel free to say `hi`! 
-      Any low-level programs (obviously not deep down into the kernel like embedded-system or any kind close with that, even I do like it tho) 
+      👀 I’m interested in a lot of stuff, mostly learning new things with curiosity and open-mindedness, feel free to say `hi`!
+      Any low-level programs (obviously not deep down into the kernel like embedded-system or any kind close with that, even I do like it tho)
       are the most attractive field that I have been immersed with.
     </div><br/>
     <div width="100%">
       🌱 I’m currently learning both Golang and Rust at the same time, furthermore is Kubernetes/Docker **=>** to DevOpsity and beyond!
     </div><br/>
     <div width="100%">
-      💞️ I’m looking to collaborate on any open source with the domain relevant to Golang or Rust. If you can teach me something, even if you think 
+      💞️ I’m looking to collaborate on any open source with the domain relevant to Golang or Rust. If you can teach me something, even if you think
       it's trivial I will appreciate its a lot, show me my worst and both of us can be improved.
     </div>
   </div>
 </div>
 
+<hr/>
+
+<!-- [![IMpossible's GitHub stats](https://github-readme-stats.vercel.app/api/?username=IMpcuong&hide_border=true&line_height=40&count_private=true&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMpcuong&hide_border=true&count_private=true&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<div width="100%">
+  <img align="center" src="./github-metrics.svg" alt="Metrics" width="400">
+</div>
+
 <!---
-CuongTrinh1280/CuongTrinh1280 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IMpcuong/IMpcuong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-
-<!-- [![IMpossible's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuongtrinh1280&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuongtrinh1280&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --->
