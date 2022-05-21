@@ -32,7 +32,7 @@ jobs:
           token: ${{ secrets.SECRET_METRICS }}
 
           # Options
-          user: lambdalisue
+          user: IMpcuong
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Tokyo
