@@ -33,12 +33,12 @@
 
 <hr/>
 
+<div width="100%">
+  <img style='align="center"; width="50%";' src="./github-metrics.svg" alt="Metrics">
+</div>
+
 <!-- [![IMpossible's GitHub stats](https://github-readme-stats.vercel.app/api/?username=IMpcuong&hide_border=true&line_height=40&count_private=true&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMpcuong&hide_border=true&count_private=true&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<div width="100%">
-  <img align="center" src="./github-metrics.svg" alt="Metrics" width="50%" margin-left="auto" margin-right="auto">
-</div>
 
 <!---
 IMpcuong/IMpcuong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
