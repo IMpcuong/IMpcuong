@@ -1,37 +1,33 @@
 <div width="100%">
   <img src="https://komarev.com/ghpvc/?username=IMpcuong&style=flat&color=3285a8">
-  <div width="100%">
-    <h4> 📫 How to reach me: </h4>
-    <a id="gmail-contact" href="https://mail.google.com/mail/?view=cm&to=cuongtrinhtien128%40gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">
-    </a>
-    <a id="linkedin-contact" href="https://www.linkedin.com/in/cuong-trinh-9b1211191/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
-    </a>
-    <a id="facebook-contact" href="https://www.facebook.com/Le0V.melodywhite">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white">
-    </a>
-  </div>
+  <h4> 📫 How to reach me: </h4>
+  <a id="gmail-contact" href="https://mail.google.com/mail/?view=cm&to=cuongtrinhtien128%40gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <a id="linkedin-contact" href="https://www.linkedin.com/in/cuong-trinh-9b1211191/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a id="facebook-contact" href="https://www.facebook.com/Le0V.melodywhite">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white">
+  </a>
+</div>
 
-  <hr/>
+<hr/>
 
+<div width="100%">
+  <h4> ✨✨✨ About me: ✨✨✨ </h4>
   <div width="100%">
-    <h4> ✨✨✨ About me: ✨✨✨ </h4>
-    <div width="100%">
-      👋 Hi, I’m @cuongtrinh a.k.a @impcuong, and I'm not a robot even sometimes I wished that might turn into reality, keke!
-    </div><br/>
-    <div width="100%">
-      👀 I’m interested in a lot of stuff, mostly learning new things with curiosity and open-mindedness, feel free to say `hi`!
-      Any low-level programs (obviously not deep down into the kernel like embedded-system or any kind close with that, even I do like it tho)
-      are the most attractive field that I have been immersed with.
-    </div><br/>
-    <div width="100%">
-      🌱 I’m currently learning both Golang and Rust at the same time, furthermore is Kubernetes/Docker **=>** to DevOpsity and beyond!
-    </div><br/>
-    <div width="100%">
-      💞️ I’m looking to collaborate on any open source with the domain relevant to Golang or Rust. If you can teach me something, even if you think
-      it's trivial I will appreciate its a lot, show me my worst and both of us can be improved.
-    </div>
+    👋 Hi, I’m @cuongtrinh a.k.a @impcuong, and I'm not a robot even sometimes I wished that might turn into reality, keke!
+  </div><br/>
+  <div width="100%">
+    👀 I’m interested in a lot of stuff, mostly learning new things with curiosity and open-mindedness, feel free to say `hi`!
+    Any low-level programs (obviously not deep down into the kernel like embedded-system or any kind close with that, even I do like it tho) are the most attractive field that I have been immersed with.
+  </div><br/>
+  <div width="100%">
+    🌱 I’m currently learning both Golang and Rust at the same time, furthermore is Kubernetes/Docker **=>** to DevOpsity and beyond!
+  </div><br/>
+  <div width="100%">
+    💞️ I’m looking to collaborate on any open source with the domain relevant to Golang or Rust. If you can teach me something, even if you think it's trivial I will appreciate its a lot, show me my worst and both of us can be improved.
   </div>
 </div>
 
@@ -41,7 +37,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMpcuong&hide_border=true&count_private=true&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <div width="100%">
-  <img align="center" src="./github-metrics.svg" alt="Metrics" width=full>
+  <img align="center" src="./github-metrics.svg" alt="Metrics" width="50%">
 </div>
 
 <!---

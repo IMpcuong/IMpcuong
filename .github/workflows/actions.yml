@@ -61,7 +61,7 @@ jobs:
           plugin_people_types: followers, following
           plugin_projects: yes
           plugin_projects_limit: 4
-          plugin_support: no
+          plugin_support: yes
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
