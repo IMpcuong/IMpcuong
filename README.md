@@ -1,8 +1,5 @@
 <div width="100%">
   <img src="https://komarev.com/ghpvc/?username=IMpcuong&style=flat&color=3285a8">
-</div>
-
-<div>
   <div width="100%">
     <h4> 📫 How to reach me: </h4>
     <a id="gmail-contact" href="https://mail.google.com/mail/?view=cm&to=cuongtrinhtien128%40gmail.com">
@@ -44,7 +41,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMpcuong&hide_border=true&count_private=true&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <div width="100%">
-  <img align="center" src="./github-metrics.svg" alt="Metrics" width="400">
+  <img align="center" src="./github-metrics.svg" alt="Metrics" width=full>
 </div>
 
 <!---
