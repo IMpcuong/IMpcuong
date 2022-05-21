@@ -37,7 +37,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMpcuong&hide_border=true&count_private=true&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <div width="100%">
-  <img align="center" src="./github-metrics.svg" alt="Metrics" width="50%">
+  <img align="center" src="./github-metrics.svg" alt="Metrics" width="50%" margin-left="auto" margin-right="auto">
 </div>
 
 <!---
