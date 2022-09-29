@@ -5,12 +5,12 @@ name: metrics
 # Controls when the workflow will run
 on:
   # Schedule updates (on 8,12,28th each month at 12 A.M)
-  schedule: [{cron: "0 12 8,18,28 * *"}]
+  schedule: [{ cron: "0 12 8,18,28 * *" }]
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
-    branches: [ main ]
+    branches: [main]
   pull_request:
-    branches: [ main ]
+    branches: [main]
 
   # Allows you to run this workflow manually from the Actions tab
   # Lines below let you run workflow manually and on each commit:
@@ -36,28 +36,29 @@ jobs:
           user: IMpcuong
           template: classic
           base: header, activity, repositories, metadata
+          base_indepth: true
           config_timezone: Asia/Bangkok
-          
+
           ## Achievements:
           plugin_achievements: yes
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
           plugin_achievements_display: compact
-          
+
           ## Followings/Followers:
           plugin_followup: yes
           plugin_followup_sections: repositories
-          
+
           ## Habits:
           plugin_habits: yes
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
-          
+
           ## Calender:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          
+
           ## Programming languages:
           plugin_languages: yes
           plugin_languages_colors: github
@@ -67,14 +68,14 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_languages_details: percentage
-          
+
           ## People:
           plugin_notable: yes
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
-          
+
           ## Projects:
           plugin_projects: no
           plugin_projects_limit: 4
