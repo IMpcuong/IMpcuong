@@ -17,17 +17,17 @@
 <div width="100%">
   <h4> ✨✨✨ About me: ✨✨✨ </h4>
   <div width="100%">
-    👋 Hi, I’m @cuongtrinh a.k.a. @impcuong, and I'm not a robot, even though sometimes I wished that might turn into reality, keke!
+    👋 Hi, I’m @cuongtrinh, a.k.a. @impcuong, and I'm not a robot, even though sometimes I wish that might turn into reality, keke!
   </div><br/>
   <div width="100%">
     👀 I’m interested in a lot of stuff, mostly learning new things with curiosity and open-mindedness, so feel free to say `hi`!
-    Any low-level programs (obviously not deep down into the kernel like embedded-system or any kind close with that, even I do like it tho) are the most attractive field that I have been immersed with.
+    Any low-level programs (obviously not deep down into the kernel like embedded systems or anything similar, though I enjoy them) are the most appealing fields in which I have been immersed.
   </div><br/>
   <div width="100%">
-    🌱 I’m currently learning both Golang and Rust at the same time, furthermore is Kubernetes/Docker **=>** to DevOpsity and beyond!
+    🌱 I’m currently learning both Golang and Rust, as well as Kubernetes and Containerization **=>** to DevOpsity and beyond!
   </div><br/>
   <div width="100%">
-    💞️ I’m looking to collaborate on any open source in the domain relevant to Golang or Rust. If you can teach me something, even if you think it's trivial, I will appreciate it a lot. Show me my worst, and both of us can be improved.
+    💞️ I’m looking to collaborate on any open source project in the domain relevant to Golang or Rust. If you can teach me something, even if you think it's trivial, I will appreciate it a lot. Show me my worst, and both of us can be improved.
   </div>
 </div>
 
@@ -37,8 +37,10 @@
   <img style='align="center"; width="50%";' src="./github-metrics.svg" alt="Metrics">
 </div>
 
-<!-- [![IMpossible's GitHub stats](https://github-readme-stats.vercel.app/api/?username=IMpcuong&hide_border=true&line_height=40&count_private=true&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMpcuong&hide_border=true&count_private=true&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats) -->
+<!--
+[![IMpossible's GitHub stats](https://github-readme-stats.vercel.app/api/?username=IMpcuong&hide_border=true&line_height=40&count_private=true&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMpcuong&hide_border=true&count_private=true&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!---
 IMpcuong/IMpcuong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
