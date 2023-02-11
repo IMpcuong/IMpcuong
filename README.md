@@ -24,7 +24,7 @@
     Any low-level programs (obviously not deep down into the kernel like embedded systems or anything similar, though I enjoy them) are the most appealing fields in which I have been immersed.
   </div><br/>
   <div width="100%">
-    🌱 I’m currently learning both Golang and Rust, as well as Kubernetes and Containerization **=>** to DevOpsity and beyond!
+    🌱 I’m currently programming in both Golang, Rust and C, as well as learning Kubernetes and Containerization <em>=></em> to DevOpsity and beyond!
   </div><br/>
   <div width="100%">
     💞️ I’m looking to collaborate on any open source project in the domain relevant to Golang or Rust. If you can teach me something, even if you think it's trivial, I will appreciate it a lot. Show me my worst, and both of us can be improved.
