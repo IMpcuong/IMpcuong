@@ -4,7 +4,7 @@
   <a id="gmail-contact" href="https://mail.google.com/mail/?view=cm&to=cuongtrinhtien128%40gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">
   </a>
-  <a id="linkedin-contact" href="https://www.linkedin.com/in/cuong-trinh-9b1211191/">
+  <a id="linkedin-contact" href="https://www.linkedin.com/in/impcuong-sre/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
   </a>
   <a id="facebook-contact" href="https://www.facebook.com/Le0V.melodywhite">
